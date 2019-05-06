@@ -1,4 +1,6 @@
 # React-native-weather-application
 To install:
-npm i \n
+npm i
+
+
 react-native run-android
