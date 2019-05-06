@@ -1,5 +1,7 @@
 # React-native-weather-application
 To install:
+
+
 npm i
 
 
